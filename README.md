@@ -1,5 +1,5 @@
 # CustomerDatabase
-A simple customer database app written in Java developed alongside Shad Sluiter's tutorial from CodeAcademy.org 
+A simple customer database app written in Java and developed alongside Shad Sluiter's tutorial from CodeAcademy.org 
 
 ## Screenshots
 <p float="left">
